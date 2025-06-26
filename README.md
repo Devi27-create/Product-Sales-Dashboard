@@ -83,9 +83,5 @@ The line chart presents a detailed comparison of profit and sales figures for th
 **6.Screenshots:**
 See what the dashboard looks like - ![Alt Text](https://github.com/Devi27-create/Product-Sales-Dashboard/blob/main/Total%20Quantity%20Sold%20By%20Segment%20Trends%20Of%20Sales%20In%20Different%20Countries%20Total%20Discounts%20by%20Discount%20Bands.png)
 
-Eaxample: ![Dashboard 1 Preview](https://github.com/Devi27-create/Product-Sales-Dashboard/blob/main/Total%20Quantity%20Sold%20By%20Segment%20Trends%20Of%20Sales%20In%20Different%20Countries%20Total%20Discounts%20by%20Discount%20Bands.png)
-
 See what the other dashboard looks like -  ![Alt Text](https://github.com/Devi27-create/Product-Sales-Dashboard/blob/main/Top%205%20Product%20By%20Profit%2C%20Quantity%20and%20Sales%20Manufacturing%20Cost%20Of%20Different%20Products%20In%20Different%20Countries%20Profit%20BY%20Time%20Period.png)
-
-Eaxample:![Dashboard 2 Preview](https://github.com/Devi27-create/Product-Sales-Dashboard/blob/main/Top%205%20Product%20By%20Profit%2C%20Quantity%20and%20Sales%20Manufacturing%20Cost%20Of%20Different%20Products%20In%20Different%20Countries%20Profit%20BY%20Time%20Period.png)
 
