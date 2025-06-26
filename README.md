@@ -36,7 +36,10 @@ Source: https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financi
 Example:
 
 **1. Key Questions:**
-Which Country/Region generates more profit or which Country/Region has more sales, average sales or what's the total quantity sold in different countries.
+Which Country/Region generates more profit? 
+Which Country/Region has more sales? 
+What's the average sales of Products? 
+What's the total quantity sold in different countries?
 
 **2. Goal of the Dashboard:**
 To deliver an interactive visual tool that enables the users to explore the data with ease. Uncover the sales trend.
