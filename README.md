@@ -81,10 +81,11 @@ The Clustered Column Chart visually represents the manufacturing costs associate
 The line chart presents a detailed comparison of profit and sales figures for the years 2013 and 2014. It breaks down the data into various segments, including quarterly, monthly, and daily analyses. 
 
 **6.Screenshots:**
-See what the dashboard looks like -
+See what the dashboard looks like - ![Alt Text](Product-Sales-Dashboard/Top 5 Product By Profit, Quantity and Sales Manufacturing Cost Of Different Products In Different Countries Profit BY Time Period.png at main · Devi27-create/Product-Sales-Dashboard)
 
-Product-Sales-Dashboard/Top 5 Product By Profit, Quantity and Sales Manufacturing Cost Of Different Products In Different Countries Profit BY Time Period.png at main · Devi27-create/Product-Sales-Dashboard
+Eaxample:![Dashboard 1 Preview](Product-Sales-Dashboard/Top 5 Product By Profit, Quantity and Sales Manufacturing Cost Of Different Products In Different Countries Profit BY Time Period.png at main · Devi27-create/Product-Sales-Dashboard)
 
-Product-Sales-Dashboard/Total Quantity Sold By Segment Trends Of Sales In Different Countries Total Discounts by Discount Bands.png at main · Devi27-create/Product-Sales-Dashboard
+See what the other dashboard looks like - ![Alt Text](Product-Sales-Dashboard/Total Quantity Sold By Segment Trends Of Sales In Different Countries Total Discounts by Discount Bands.png at main · Devi27-create/Product-Sales-Dashboard)
 
+Eaxample:![Dashboard 2 Preview](Product-Sales-Dashboard/Total Quantity Sold By Segment Trends Of Sales In Different Countries Total Discounts by Discount Bands.png at main · Devi27-create/Product-Sales-Dashboard)
 
