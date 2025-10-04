@@ -8,45 +8,43 @@
 5. Features/Highlights
 6. Screenshots
 
-**1. Project Title/ Headline**
-A concise, descriptive name for the dashboard.
-Example:
-Product-Sales: Product Sales Insights Dashboard
+**1. Project Title/ Headline:**
+
+***Project Title: Product Sales Insights Dashboard***
 A dynamic, interactive data visualization tool built to explore product sales data of different countries, trends by years, profits, and sales in different segments.
 
-**2. Short Description/ Purpose**
-Example:
+**2. Short Description/ Purpose:**
+
 Product Sales Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare 6 products across 5 countries. The dashboard focuses on highlighting Top 5 Sales, Top 5 Profit, and Top 5 Quantity sold. With trends in the year 2013 and 2014. Showcasing total sales and its percentage in segments like Government, Midmarket, Enterprise, Channel Partners, and Small Businesses.
 
-**3. Tech Stack**
-Example:
-Power BI Desktop - Main data visualization platform used for report creation.
-Power Query - Data transformation and preparing data.
-File Format - .pbix for development and .png for dashboard previous.
+**3. Tech Stack:**
 
-**4. Data Source**
-Example:
+-**Power BI Desktop-** Main data visualization platform used for report creation.
+-**Power Query-** Data transformation and preparing data.
+-**File Format-** .pbix for development and .png for dashboard previous.
+
+**4. Data Source:**
+
 Source: https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
-**5. Features/Highlights**
+**5. Features/Highlights:**
 1. Key Questions
 2. Goal of the Dashboard
 3. A Walkthrough of Key Visuals
 
-Example:
 
-**1. Key Questions:**
+-**1. Key Questions:**
 Which Country/Region generates more profit? 
 Which Country/Region has more sales? 
 What's the average sales of Products? 
 What's the total quantity sold in different countries?
 
-**2. Goal of the Dashboard:**
+-**2. Goal of the Dashboard:**
 To deliver an interactive visual tool that enables the users to explore the data with ease. Uncover the sales trend.
 
-**3. A Walkthrough of Key Visuals:**
+-**3. A Walkthrough of Key Visuals:**
 
-#Multi-Row Card (top): Shows a total of 118,726,350.26 in sales revenue, yielding a substantial total profit of 16,893,702.26. With gross sales amounting to 127,931,598.50, the total quantity sold reached an impressive 1,125,806 units. 
+-**Multi-Row Card (top):** Shows a total of 118,726,350.26 in sales revenue, yielding a substantial total profit of 16,893,702.26. With gross sales amounting to 127,931,598.50, the total quantity sold reached an impressive 1,125,806 units. 
 
 #Total Quantity Sold by Segments (Pie Chart):
 The pie chart provides a breakdown of the quantities sold across distinct market segments, including Government, Midmarket, Enterprise, Channel Partners, and Small Businesses. This segmentation highlights the sales distribution and emphasizes the performance in each category.
